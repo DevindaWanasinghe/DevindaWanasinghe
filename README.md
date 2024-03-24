@@ -1,5 +1,5 @@
 <p align="center" > <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="70" height="70"></p>
-<h1 align="center">Hi 👋, I'm Devinda Wanasinghe</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Devinda Wanasinghe</h1>
 <h4 align="center">A passionate Full Stack developer from Sri Lanka | Exploring the Boundless World of Technology</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devindawanasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="devindawanasinghe" /> </p>
 <!--profile visit count-->
@@ -40,7 +40,8 @@
 </tr>
 </table>
 
-<h4 align="center">My Statistics:</h4>
+<h3 align="center">My  Statistics<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p></h4>
 
 ---
 
