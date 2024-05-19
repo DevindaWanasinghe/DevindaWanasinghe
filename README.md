@@ -18,7 +18,7 @@
   
 - 🔭 I’m an Undergraduate at **Uva Wellassa University of Sri Lanka**
 
-- 🌱 I’m currently learning **React & NodeJS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Your New Project**
 
